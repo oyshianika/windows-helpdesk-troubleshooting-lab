@@ -44,8 +44,6 @@ The script creates an `output/` folder with a timestamped text report. It reads 
 | [HD-003](tickets/HD-003-account-lockout.md) | Account locked | Identity verification and lockout policy | Access team escalation |
 | [HD-004](tickets/HD-004-personal-device-check.md) | Personal Windows device check | Disk space, DNS and HTTPS | Diagnostic checks completed |
 
-These examples are simulations. The outcomes illustrate decision making; they are not claims of work performed for a real employer.
+HD-001 to HD-003 are simulated support tickets. HD-004 documents diagnostic checks performed on my own Windows laptop.
 
-## Next steps for a personal lab
 
-Run the script on an authorised Windows device, write down non-sensitive observations, and add a redacted screenshot of the report and a ticket documenting what you actually checked. Avoid uploading usernames, IP addresses, serial numbers or event messages with personal details.
