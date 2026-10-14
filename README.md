@@ -45,5 +45,9 @@ The script creates an `output/` folder with a timestamped text report. It reads 
 | [HD-004](tickets/HD-004-personal-device-check.md) | Personal Windows device check | Disk space, DNS and HTTPS | Diagnostic checks completed |
 
 HD-001 to HD-003 are simulated support tickets. HD-004 documents diagnostic checks performed on my own Windows laptop.
+## Disk Space Checker
 
+Checks fixed-drive free space, flags low or critical space, and exports a CSV report. Includes a demo mode.
+
+[Usage guide and Windows test results](docs/disk-space-checker.md)
 
